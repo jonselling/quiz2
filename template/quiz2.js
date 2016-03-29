@@ -53,7 +53,8 @@
 		$this.html('Peace Out!')
 		$this.fadeOut(1500);
 	});
-
+	
+	
 	$submit.submit(function(e) {
 		e.preventDefault();
 		if ($(this).find('input[type="text"]').val() != '') {

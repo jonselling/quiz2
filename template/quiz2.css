@@ -36,18 +36,22 @@ a {
 	background: blue;
 	border: solid;
 }
+
 .mouse-over {
 	background: gray;
 	border: dotted;
 }
+
 .timeout {
 	background: red;
 	border: solid;
 }
+
 .submit {
 	background: purple;
 	border: dotted;
 }
+
 .part2 {
 	padding: 20px;
 	background: green;
